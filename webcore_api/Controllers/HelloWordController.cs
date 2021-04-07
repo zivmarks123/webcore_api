@@ -14,7 +14,7 @@ namespace webcore_api.Controllers
         [HttpGet]
         public IActionResult get()
         {
-            return Ok("Hello Developer");
+            return Ok("Hello Developer Nir");
         }
     }
 }
